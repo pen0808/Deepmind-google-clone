@@ -155,7 +155,7 @@ body{
 .picture-container{
   width: 300px;
   height: 300px;
-  background-image: url("hong-nguyen-J4TEzb9mb3A-unsplash.jpg");
+  background-image: url("/hong-nguyen-J4TEzb9mb3A-unsplash.jpg");
   background-position: center;
   background-size: cover;
   border-radius: 1rem;
@@ -166,16 +166,16 @@ body{
 }
 @keyframes pic{
    0%{
-      background-image: url("./hong-nguyen-J4TEzb9mb3A-unsplash.jpg");
+      background-image: url("/hong-nguyen-J4TEzb9mb3A-unsplash.jpg");
    }
    25%{
-    background-image: url("./kinga-howard-5qNTJcCckmc-unsplash.jpg");
+    background-image: url("/kinga-howard-5qNTJcCckmc-unsplash.jpg");
    }
    50%{
-    background-image: url("./william-recinos-qtYhAQnIwSE-unsplash.jpg");
+    background-image: url("/william-recinos-qtYhAQnIwSE-unsplash.jpg");
    }
    75%{
-    background-image: url("./zachary-nelson-98Elr-LIvD8-unsplash.jpg");
+    background-image: url("/zachary-nelson-98Elr-LIvD8-unsplash.jpg");
    }
 }
 .right-hero-container{
@@ -533,4 +533,5 @@ body{
   color: var(--whiteColor);
 
 }
+
 
