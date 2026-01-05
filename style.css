@@ -155,7 +155,7 @@ body{
 .picture-container{
   width: 300px;
   height: 300px;
-  background-image: url("./hong-nguyen-J4TEzb9mb3A-unsplash.jpg");
+  background-image: url("hong-nguyen-J4TEzb9mb3A-unsplash.jpg");
   background-position: center;
   background-size: cover;
   border-radius: 1rem;
@@ -533,3 +533,4 @@ body{
   color: var(--whiteColor);
 
 }
+
